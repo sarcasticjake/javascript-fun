@@ -1,0 +1,15 @@
+{
+  "name": "javascript-fun",
+  "version": "1.0.0",
+  "description": "It's js time baby",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "iconv-lite": "^0.6.3"
+  }
+}
